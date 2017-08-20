@@ -24,7 +24,7 @@ Office Hours: by appointment
 
 ---
 
-Course Etherpad: [https://public.etherpad-mozilla.org/p/lis654fa16-1](https://public.etherpad-mozilla.org/p/lis654fa17-1)
+Course Etherpad: [https://public.etherpad-mozilla.org/p/lis654fa17-1](https://public.etherpad-mozilla.org/p/lis654fa17-1)
 
 [increment last digit for subsequent class numbers, e.g. -2 for class session 2, -6 for class session 6, etc.]
 
