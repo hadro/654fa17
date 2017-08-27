@@ -2,7 +2,7 @@
 
 Welcome to 654! 
 
-I'm using Github this semester as an experimental tool for distributing files and as a method of helping folks get more acquainted with code editors and open tools, etc. 
+I'm using Github this semester as a tool for distributing files and as a method of helping folks get more acquainted with code editors and open tools, etc. 
 
 See below for basic headline info, but see the [`syllabus`](syllabus) section for the formal full course information documents, and the [`assignments`](assignments) folder for the descriptions of materials you will turn in.
 
@@ -14,11 +14,11 @@ Identifier: LIS-654-03
 
 Credits: 3
 
-Day and Time: Wednesday 06:30PM - 09:30PM
+Day and Time: Wednesday 06:30PM - 09:20PM
 
 Location: Manhattan, Room 606
 
-Instructor: Josh Hadro
+Instructor: Josh Hadro (Call me "Josh")
 
 Office Hours: by appointment
 
