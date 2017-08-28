@@ -1,10 +1,8 @@
-
-
-#Technology and Service Inspiration Posts (10% of total grade)
+# Technology and Service Inspiration Posts (10% of total grade)
 
 **And**
 
-#Reflection Posts (25% of total grade)
+# Reflection Posts (25% of total grade)
 
 **Blog URL**
 
