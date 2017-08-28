@@ -172,23 +172,17 @@ Medium.com, or elsewhere. They can be great fodder as writing samples,
 especially if you consider that kind of re-use ahead of time.
 
 **Potential post topics (to name just a few):**  
-The Gender Gap in library technology  
-Creative Commons and Copyleft  
-Are ebooks a threat to libraries?  
-Does digital preservation obviate the need for physical storage?  
-The Digital Public Library of America: potential and reality  
-Consumer technology influence on library practice  
-Library use of social media vs. personal/professional use of social
-media  
-Libraries and open source software: is there a professional mandate to
-use these tools?  
-The evolution of library electronic resources: moving from text to
-video, and beyond  
-The Cloud – what does that even mean? What does it mean for library
-users?  
-Streaming media: should libraries offer streaming music and video
-services to their patrons? If so, what should the delivery mechanism
-look like?
+- The Gender Gap in library technology  
+- Creative Commons and Copyleft  
+- Are ebooks a threat to libraries?  
+- Does digital preservation obviate the need for physical storage?  
+- The Digital Public Library of America: potential and reality  
+- Consumer technology influence on library practice  
+- Library use of social media vs. personal/professional use of social media  
+- Libraries and open source software: is there a professional mandate to use these tools?  
+- The evolution of library electronic resources: moving from text to video, and beyond  
+- The Cloud – what does that even mean? What does it mean for library users?  
+- Streaming media: should libraries offer streaming music and video services to their patrons? If so, what should the delivery mechanism look like?
 
 **Potential starting place**  
 If you’re struggling for a place to start, consider reading and
