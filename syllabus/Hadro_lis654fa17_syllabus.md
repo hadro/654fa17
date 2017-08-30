@@ -204,6 +204,8 @@ card](https://www.nypl.org/collections/articles-databases/lyndacom)!\]
 
 <https://data-lessons.github.io/library-python/>
 
+<https://programminghistorian.org/lessons/>
+
 Class Schedule
 ==============
 
