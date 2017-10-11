@@ -376,9 +376,15 @@ Readings:
 > 9 GIFs That Explain Responsive Design Brilliantly  
 > <https://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly-2>
 
-**October 18 — APIs, and Linked Data** 
+**October 18 — Site Visit to Metropolitan Libraries Council!** 
 
 Due: Personal homepage
+
+Metropolitan New York Library Council
+599 11th Avenue, 8th floor
+New York, NY 10036 
+
+**October 25 - APIs, and Linked Data** 
 
 Readings:
 
@@ -404,7 +410,9 @@ Readings:
 > An Introduction to RDF for Librarians (of a Metadata Bent)  
 > <http://ruthtillman.com/introduction-rdf-librarians-metadata/>
 
-**October 25 — The Ebook Question (Copyright, Licensing, Contracts, and First Sale in a Digital World)**
+**November 1 — The Ebook Question (Copyright, Licensing, Contracts, and First Sale in a Digital World)**
+
+Due: Technology and Service Inspiration Post 3
 
 Readings:
 
@@ -438,9 +446,9 @@ Readings:
 > From where I sit, you can’t actually “sell” an ebook  
 > <http://www.idealog.com/blog/from-where-i-sit-you-cant-actually-sell-an-ebook>
 
-**November 1 — Open Source (and Open Access)**
+**November 8 — Open Source (and Open Access)**
 
-Due: Technology and Service Inspiration Post 3
+Due: Reflection Post 3   
 
 Readings:
 
@@ -463,13 +471,9 @@ Readings:
 > Git and GitHub for Librarians  
 > <http://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1034&context=jj_pubs>
 
-**November 8 — Blank Technology Canvas Pitch Presentations** 
-
-Due: Blank Technology Canvas Pitch Presentation
-
 **November 15 — Blank Technology Canvas Pitch Presentations** 
 
-Due: Reflection Post 3
+Due: Blank Technology Canvas Pitch Presentation
 
 **November 22 — NO CLASS**
 
